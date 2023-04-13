@@ -42,15 +42,14 @@ button {
   font-size: 30px;
   color: rgb(90, 90, 90);
   background-color: #90e7e7;
-
 }
+
 
 section h2 {
   font-size: 70px;
   color:pink;
-  background: #514D8F;
+  /* background: #514D8F;
   background: linear-gradient(to right, #514D8F 26%, #32CF41 62%);
 -webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-;
+-webkit-text-fill-color: transparent; */ 
 }
